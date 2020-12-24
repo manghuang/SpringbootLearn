@@ -1,6 +1,6 @@
-package com.example.springbootlearn2.dao;
+package com.example.demo.dao;
 
-import com.example.springbootlearn2.domain.Account;
+import com.example.demo.domain.Account;
 import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Repository;
 

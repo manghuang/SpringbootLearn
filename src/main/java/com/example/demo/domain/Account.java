@@ -1,4 +1,4 @@
-package com.example.springbootlearn2.domain;
+package com.example.demo.domain;
 
 public class Account {
     private String name;

@@ -1,9 +1,8 @@
-package com.example.springbootlearn2.controller;
+package com.example.demo.controller;
 
 
-import com.example.springbootlearn2.dao.AccountDao;
-import com.example.springbootlearn2.domain.Account;
-import com.example.springbootlearn2.serivice.AccountService;
+import com.example.demo.domain.Account;
+import com.example.demo.serivice.AccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

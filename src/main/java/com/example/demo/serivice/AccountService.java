@@ -1,6 +1,6 @@
-package com.example.springbootlearn2.serivice;
+package com.example.demo.serivice;
 
-import com.example.springbootlearn2.domain.Account;
+import com.example.demo.domain.Account;
 
 import java.util.List;
 
